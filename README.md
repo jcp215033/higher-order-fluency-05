@@ -61,5 +61,5 @@ const alumni = [
         ```jsx
         allUseJavaScript(alumni) // returns true
         ```
-
+  
 
